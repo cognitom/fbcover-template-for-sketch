@@ -1,0 +1,30 @@
+{
+  "name": "fbcover-template-for-sketch",
+  "description": "FbCover Template for Sketch 3",
+  "version": "0.0.2",
+  "homepage": "https://github.com/cognitom/fbcover-template-for-sketch",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cognitom/fbcover-template-for-sketch.git"
+  },
+  "author": {
+    "name": "gaspanik",
+    "url": "https://github.com/gaspanik"
+  },
+  "main": "./index.js",
+  "keywords": [
+    "sketch"
+  ],
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-sketch": "*"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
